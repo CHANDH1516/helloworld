@@ -1,6 +1,10 @@
 // Your First Program
 
-class helloWorld {
+
+
+
+class Helloworld {
+
     public static void main(String[] args) {
         System.out.println("HI, World!"); 
     }
